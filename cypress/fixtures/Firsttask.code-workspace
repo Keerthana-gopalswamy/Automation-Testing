@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../learnship"
+		},
+		{
+			"path": "../../../Activitytest"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "javascripttraing"
+	}
+}
